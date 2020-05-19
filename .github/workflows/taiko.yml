@@ -7,8 +7,6 @@ on:
 
 
 jobs:
-  
-
   functional-tests:
  
     name: FTs - NodeJS ${{ matrix.node_version }} & ${{ matrix.os }}
